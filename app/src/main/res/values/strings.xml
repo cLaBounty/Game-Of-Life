@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Game of Life</string>
+
+    <!-- Saved Grids Directory -->
+    <string name="saved_grids_directory">SavedGrids</string>
+
+    <!-- Saved Grid File Name -->
+    <string name="saved_grid_file_name">SavedGrid--%1s.csv</string>
+
+    <!-- Generation -->
+    <string name="generation_num_text">Generation: %1d</string>
+
+    <!-- Grid Size -->
+    <string name="grid_size_text">Grid Size: %1d</string>
+
+    <!-- Delay -->
+    <string name="delay_text">Delay: %1d ms</string>
+
+    <!-- Buttons -->
+    <string name="start_btn">Start</string>
+    <string name="stop_btn">Stop</string>
+    <string name="reset_btn">Reset</string>
+    <string name="share_btn">Share</string>
+    <string name="alive_color_btn">Pick Alive Color</string>
+    <string name="dead_color_btn">Pick Dead Color</string>
+    <string name="save_btn">Save</string>
+    <string name="open_btn">Open</string>
+    <string name="clone_btn">Clone</string>
+
+    <!-- Grid Saved Toast -->
+    <string name="grid_saved_toast">Grid Saved</string>
+</resources>
